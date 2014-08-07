@@ -1,0 +1,6 @@
+{
+    "require": {
+        "jakub-onderka/php-console-color": "dev-master"
+    },
+    "minimum-stability": "dev"
+}
