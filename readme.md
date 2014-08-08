@@ -9,7 +9,7 @@ Php için safran console istemcisi
 ### Yükleme
 
 ```bash
-$ composer update
+$ composer install
 ```
 
 ### Çalıştırma
